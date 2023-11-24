@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+=======
+Just dance
+Spin that record, babe,
+>>>>>>> alien-plot
 da-da-doo-doot
